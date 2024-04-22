@@ -1,6 +1,6 @@
 # food-blog
 #Plan:
- Pages
+ #Pages
   - home
      - where you can see post of food or recipes
      - where you can post blogs or recipes
