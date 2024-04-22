@@ -1,5 +1,4 @@
 # food-blog
-
 #Plan:
  Pages
   - home
@@ -19,6 +18,6 @@ Other things:
  - way to add tags, filter, search for
  - way to follow people
  - way to like and save posts
+ - add tagging to posts and sorting from blog posts and recipes
 Things to add in the future:
- - way to reccomend posts based on
- - 
+ - way to reccomend posts based on likes and saved
